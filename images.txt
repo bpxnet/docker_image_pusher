@@ -1,2 +1,1 @@
-thinkingdata/ta-logbus-v2:2.1.0.8
-alpine:3.14
+gitlab/gitlab-ce:13.0.3-ce.0
